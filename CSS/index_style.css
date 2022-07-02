@@ -94,6 +94,15 @@ nav {
     color: #0088a9;
 }
 
+/* Section - Desp*/
+
+.desp {
+	border : 4px solid limegreen;
+	width: min(100% - 2rem);
+	margin-inline: auto;
+}
+
+
 .cta {
     order: 1;
 }
@@ -153,6 +162,7 @@ main {
 main, p {
     color: var(--clr-primary-900);
     padding: 3em;
+	font-size: 1rem;
 }
 
 main, h1 {
