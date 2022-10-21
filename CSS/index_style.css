@@ -162,7 +162,7 @@ main {
 main, p {
     color: var(--clr-primary-900);
     padding: 3em;
-	font-size: 1rem;
+	font-size: 1.11rem;
 }
 
 main, h1 {
