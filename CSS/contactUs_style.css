@@ -135,7 +135,7 @@ main {
     max-width: 500px;
     line-height: 65px;
     padding: 50PX;
-    font-size: 18px;
+    font-size: 22px;
 }
 
 .contact-info i {
@@ -173,6 +173,8 @@ main {
     box-shadow: 0 1px 1px rgba(0,0,0,0.1);
     margin-bottom: 20px;
     opacity: 0.9;
+    background-color: rgb(173,216,230);
+
 }
 
 .contact-form .text-box:first-child {
@@ -193,6 +195,8 @@ main {
     box-shadow: 0 1px 1px rgba(0,0,0,0.1);
     margin-bottom: 20px;
     opacity: 0.9;
+    background-color: rgb(173,216,230);
+
 }
 
 .contact-form .send-btn {
